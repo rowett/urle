@@ -975,7 +975,7 @@
 			URLEEngine.width = maxX;
 			URLEEngine.height = maxY;
 		} else {
-			// decode succeeded for return no error and save grid
+			// decode succeeded so return no error and save grid
 			message = "";
 			URLEEngine.grid = grid;
 			URLEEngine.width = maxX;
